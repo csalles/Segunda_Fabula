@@ -1,1 +1,9 @@
-<page bg_color="white"><agent x="0" y="100" color="black" text="minha nova page segunda_pagina - 1.748.617.706.880" /></page>
+<page bg_color="white" id="segunda_pagina">
+  <agent
+    x="0"
+    y="100"
+    color="black"
+    text="minha nova page segunda_pagina - 1.748.617.706.870"
+    id="secreto"
+  />
+</page>
